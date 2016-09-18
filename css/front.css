@@ -21,7 +21,7 @@ body {
 #avatar {
     height: 180px;
     border-radius: 100%;
-    border: 5px solid white;
+    border: 2px solid white;
     margin-bottom: 40px;
 }
 h1 {
@@ -50,7 +50,7 @@ ul {
 }
 li {
     border-radius: 100%;
-    border: 2px solid white;
+    border: 1px solid white;
     color: white;
     margin: 8px;
     display: inline-block;
@@ -93,7 +93,7 @@ a {
         width: auto;
     }
     li:hover {
-        background-color: none;
+        background-color: transparent;
         transition: none;
     }
     a {
